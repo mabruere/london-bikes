@@ -28,9 +28,3 @@ The code includes the following steps:
 - Weather and season mapping
 - Data visualization
 - Data export
-
-## Usage
-
-To run the code, follow these steps:
-
-1. **Clone Repository**: Clone this repository using:
