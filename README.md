@@ -2,6 +2,8 @@
 
 This repository contains code to process and analyze the London Bikes dataset, providing insights into bike rentals, weather conditions, and seasonal patterns in London.
 
+Tableau visualization link: [https://public.tableau.com/app/profile/maria.bruere/viz/London_Bikes_16916803557500/Dashboard](https://public.tableau.com/app/profile/maria.bruere/viz/London_Bikes_16916803557500/Dashboard)
+
 ## Overview
 
 The code in this repository processes the London Bikes dataset, which is stored in the `london_merged.csv` file. The dataset includes various features related to bike rentals and weather conditions.
